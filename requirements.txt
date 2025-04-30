@@ -3,4 +3,3 @@ Flask
 PyMuPDF
 google-generativeai
 Werkzeug
-vercel-python-wsgi
